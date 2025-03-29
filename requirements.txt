@@ -2,6 +2,7 @@ ipython
 jupyter
 gdown
 unzip
+gensim
 numpy
 pandas
 Pillow
@@ -18,3 +19,7 @@ tensorflow
 tensorboard
 scikit-learn
 setuptools
+langdetect
+spacy
+spacy download en_core_web_md
+spacy download en_core_web_sm
